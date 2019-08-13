@@ -12,7 +12,7 @@ class Dog
   end
 
   def self.print_all
-  endß
+  end
 
   private
   def save
