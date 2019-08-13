@@ -7,6 +7,12 @@ class Dog
     save
   end
 
+  def all
+    @@all
+  end
+
+  
+
   private
   def save
     @@all << self
